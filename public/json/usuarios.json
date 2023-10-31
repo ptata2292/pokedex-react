@@ -1,0 +1,27 @@
+[
+    {
+        "email": "ptata2292@gmail.com",
+        "passwork": "123456", 
+        "nombre": "Pedro Tata"
+    },
+    {
+        "email": "sofia@gmail.com",
+        "passwork": "123456", 
+        "nombre": "Sofia Salazar"
+    },
+    {
+        "email": "jorge@gmail.com",
+        "passwork": "123456", 
+        "nombre": "Jorge Tata"
+    },
+    {
+        "email": "abrahan@gmail.com",
+        "passwork": "123456", 
+        "nombre": "Abrahan Tata"
+    },
+    {
+        "email": "root@gmail.com",
+        "passwork": "123456", 
+        "nombre": "Super Admin"
+    }
+]
